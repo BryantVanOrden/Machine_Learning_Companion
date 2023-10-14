@@ -109,13 +109,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private List<String> apiKeys = Arrays.asList(
-            "9f10a0533e524a0ea6b4d9d75bf44b96",
-            "6e810ad611694fa6ae7c98193942a2e9",
-            "6e598271b5b541c483da5b3a024dbdc6",
-            "30050a8bec1d44aab87d6259999dd278",
-            "dec0c079f50649f78b215e6852f81a9d",
-            "f619bc85543a4c3a80b998e5912fdbb7",
-            "7b75d24566114c7e8c00424f5a0a9699"
+            "Your Key",
+            
     );
     private int currentApiKeyIndex = 0;
 
