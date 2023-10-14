@@ -90,7 +90,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
         app:adSize="BANNER"
-        app:adUnitId="ca-app-pub-3940256099942544/6300978111">
+        app:adUnitId="">
 
     </com.google.android.gms.ads.AdView>
 
