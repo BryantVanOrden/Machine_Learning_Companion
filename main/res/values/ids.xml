@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView3" type="id" />
+    <item name="profileImageView" type="id" />
+    <item name="imageView4" type="id" />
+    <item name="usernameTextView" type="id" />
+    <item name="emailTextView" type="id" />
+    <item name="button" type="id" />
+</resources>
