@@ -6,7 +6,7 @@ This is a project I've been working on. This is an andorid app writen in JAVA an
 
 The purpose of making this software was because I enjoy being up on all the new things with AI but its hard to find and get a curated list of articles on it. So it was something that I thought would be great to have so I made it.
 
-Youtube: 
+Youtube Demo: 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
